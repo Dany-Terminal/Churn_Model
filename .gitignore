@@ -1,6 +1,6 @@
-notebooks/.ipynb_checkpoints/
+notebook/.ipynb_checkpoints/
 __pycache__/
 venv/
 .env
 data/
-notebooks/.chat
+notebook/.chat
