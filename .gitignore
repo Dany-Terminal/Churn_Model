@@ -1,6 +1,7 @@
 notebook/.ipynb_checkpoints/
+notebook/.virtual_documents/
 __pycache__/
 venv/
 .env
-data/
+churn_db/
 notebook/.chat
